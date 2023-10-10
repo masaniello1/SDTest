@@ -308,25 +308,9 @@ with block:
                   <rect x="23" y="69" width="23" height="23" fill="black"></rect>
                 </svg>
                 <h1 style="font-weight: 900; margin-bottom: 7px;margin-top:5px">
-                  Stable Diffusion XL 1.0
+                  Ex 1
                 </h1>
               </div>
-              <p style="margin-bottom: 10px; font-size: 94%; line-height: 23px;">
-			    Brought you by SECourses : <a style="text-decoration: underline;" href="https://www.youtube.com/SECourses">https://www.youtube.com/SECourses</a>
-				<br/>
-				Please support me on Patreon : <a style="text-decoration: underline;" href="https://www.patreon.com/SECourses">https://www.patreon.com/SECourses</a>
-				<br/>
-				Patreon exclusive posts index : <a style="text-decoration: underline;" href="https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Patreon-Posts-Index.md">https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Patreon-Posts-Index.md</a>
-				<br/>
-                Stable Diffusion XL 1.0 is the latest text-to-image model from StabilityAI. 
-                <br/>
-                For faster generation and API access you can try
-                <a
-                  href="http://beta.dreamstudio.ai/"
-                  style="text-decoration: underline;"
-                  target="_blank"
-                  >DreamStudio Beta</a
-                >.</a>
               </p>
             </div>
         """
